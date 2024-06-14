@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=VIN Pin=C2-2
+Added Component: Designator=L?(2100LL1R0VRC)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/1/2100LL-1R0-V-RC.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "21.844mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "2100LL-1R0-V-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-2100LL-1R0-V-RC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=652-2100LL-1R0-V-RC"; VariantName = "[No Variations]"
+Added Component: Designator=PS?(KTT0005B)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "LM2587S-12/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/lm2587s-12nopb/texas-instruments?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.ti.com/lit/gpn/lm2587"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Texas Instruments"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "LM2587S-12/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "926-LM2587S-12/NOPB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/LM2587S-12-NOPB?qs=X1J7HmVL2ZFFt1BOlhawsg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=L?-2
+Added Pin To Net: NetName=GND Pin=PS?-3
+Added Pin To Net: NetName=NetD1_1 Pin=PS?-4
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=L?-1
+Added Pin To Net: NetName=NetC2_2 Pin=PS?-5
+Added Net: Name=NetC2_2
+Added Pin To Net: NetName=NetPS?_1 Pin=PS?-1
+Added Pin To Net: NetName=NetPS?_1 Pin=R2-2
+Added Net: Name=NetPS?_1
+Added Pin To Net: NetName=NetPS?_2 Pin=PS?-2
+Added Pin To Net: NetName=NetPS?_2 Pin=R1-1
+Added Pin To Net: NetName=NetPS?_2 Pin=R3-2
+Added Net: Name=NetPS?_2
+Added Member To Class: ClassName=LM2587 Member=Component L? 100uH
+Added Member To Class: ClassName=LM2587 Member=Component PS? LM2587S-12_NOPB

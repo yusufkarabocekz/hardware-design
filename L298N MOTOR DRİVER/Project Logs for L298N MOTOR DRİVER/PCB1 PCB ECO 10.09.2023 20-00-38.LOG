@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=+5V Pin=CN1-1
+Removed Pin From Net: NetName=VCC Pin=CN1-2
+Removed Pin From Net: NetName=GND Pin=CN1-3
+Removed Pin From Net: NetName=GND Pin=CN1-4
+Removed Pin From Net: NetName=OUT2 Pin=J1-2
+Removed Member From Class: ClassName=Sheet1 Member=CN1
+Added Component: Designator=J7(0393800102)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "0393800102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0393800102/molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/393800102_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "21.63mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0393800102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/0393800102?qs=PBcRNPEHKspywEvg9%2FvnAw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J8(0393800102)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "0393800102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/0393800102/molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/393800102_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "21.63mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "0393800102"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/0393800102?qs=PBcRNPEHKspywEvg9%2FvnAw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V Pin=J7-1
+Added Pin To Net: NetName=VCC Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Member To Class: ClassName=Sheet1 Member=Component J7 klemens1
+Added Member To Class: ClassName=Sheet1 Member=Component J8 klemens1
