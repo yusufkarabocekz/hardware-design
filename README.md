@@ -7,6 +7,9 @@ This repository contains various electronic project designs created using Altium
 ### 1. Flyback Converter
 The Flyback converter is a circuit that converts a DC input voltage to another DC voltage using a transformer as the energy storage element. This project includes the Flyback converter design.
 
+![image](https://github.com/yusufkarabocekz/hardware-design/assets/125998114/7a95dded-39df-49bf-adc6-9b2dd7820561)
+
+
 ### 2. Half-Bridge Converter
 The Half-Bridge converter is a circuit that uses semiconductor switching elements to convert DC to DC power. This project includes the half-bridge converter design.
 
@@ -19,8 +22,13 @@ The L298N motor driver circuit uses the L298N integrated circuit to drive two DC
 ### 5. LM2587 DC-DC Boost Converter
 The LM2587 DC-DC boost converter circuit uses the LM2587 integrated circuit to convert a lower DC voltage to a higher DC voltage. This project includes the LM2587 DC-DC boost converter design.
 
+![image](https://github.com/yusufkarabocekz/hardware-design/assets/125998114/1b903fec-39de-4161-b76a-acb0597b9fe2)
+
+
 ### 6. LM2596 DC-DC Buck Converter
 The LM2596 DC-DC buck converter circuit uses the LM2596 integrated circuit to convert a higher DC voltage to a lower DC voltage. This project includes the LM2596 DC-DC buck converter design.
+
+![image](https://github.com/yusufkarabocekz/hardware-design/assets/125998114/76510595-114a-481c-9ee0-ea95b097709b)
 
 ## Folder Structure
 Each project is located in its own folder, containing the relevant schematic and PCB files. For example:
