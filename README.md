@@ -16,6 +16,9 @@ The Half-Bridge converter is a circuit that uses semiconductor switching element
 ### 3. Jammer V1
 The Jammer circuit generates electromagnetic signals at a specific frequency to disrupt certain communication channels. This project includes the Jammer V1 design.
 
+![image](https://github.com/yusufkarabocekz/hardware-design/assets/125998114/adf3767f-35e5-4520-97b3-2afacb038129)
+
+
 ### 4. L298N Motor Driver
 The L298N motor driver circuit uses the L298N integrated circuit to drive two DC motors with a dual H-bridge configuration. This project includes the L298N motor driver design.
 
