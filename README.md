@@ -13,16 +13,16 @@ The Flyback converter is a circuit that converts a DC input voltage to another D
 ### 2. Half-Bridge Converter
 The Half-Bridge converter is a circuit that uses semiconductor switching elements to convert DC to DC power. This project includes the half-bridge converter design.
 
-### 3. Jammer V1
-The Jammer circuit generates electromagnetic signals at a specific frequency to disrupt certain communication channels. This project includes the Jammer V1 design.
-
-![image](https://github.com/yusufkarabocekz/hardware-design/assets/125998114/adf3767f-35e5-4520-97b3-2afacb038129)
+![Ekran görüntüsü 2024-08-31 224328](https://github.com/user-attachments/assets/9ab9181d-d803-47ea-9618-297c3497a8fb)
 
 
-### 4. L298N Motor Driver
+### 3. L298N Motor Driver
 The L298N motor driver circuit uses the L298N integrated circuit to drive two DC motors with a dual H-bridge configuration. This project includes the L298N motor driver design.
 
-### 5. LM2587 DC-DC Boost Converter
+![l298n](https://github.com/user-attachments/assets/1f4bbfe6-f3bd-40e1-8778-149df5660742)
+
+
+### 4. LM2587 DC-DC Boost Converter
 The LM2587 DC-DC boost converter circuit uses the LM2587 integrated circuit to convert a lower DC voltage to a higher DC voltage. This project includes the LM2587 DC-DC boost converter design.
 
 ![image](https://github.com/yusufkarabocekz/hardware-design/assets/125998114/1b903fec-39de-4161-b76a-acb0597b9fe2)
@@ -37,7 +37,6 @@ The LM2596 DC-DC buck converter circuit uses the LM2596 integrated circuit to co
 Each project is located in its own folder, containing the relevant schematic and PCB files. For example:
 - `Flyback-Converter/`: Flyback Converter project files
 - `Half-Bridge Converter/`: Half-Bridge Converter project files
-- `Jammer V1/`: Jammer V1 project files
 - `L298N MOTOR DRIVER/`: L298N Motor Driver project files
 - `LM2587_DC-DC_Boost_Converter/`: LM2587 DC-DC Boost Converter project files
 - `LM2596_DC-DC-Buck_Converter/`: LM2596 DC-DC Buck Converter project files
